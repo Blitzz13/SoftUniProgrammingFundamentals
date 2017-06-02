@@ -6,12 +6,13 @@ namespace BooleanVariable
     {
         static void Main(string[] args)
         {
+            string boolean = Console.ReadLine();
             bool yes = true;
-            if (yes)
+            if (boolean == "True")
             {
                 Console.WriteLine("Yes");
             }
-            else
+            else if (boolean == "False")
             {
                 Console.WriteLine("No");
             }

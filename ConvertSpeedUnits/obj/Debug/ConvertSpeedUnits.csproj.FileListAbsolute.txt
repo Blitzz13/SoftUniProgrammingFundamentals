@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+D:\VS projects\Softuni\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+D:\VS projects\Softuni\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+D:\VS projects\Softuni\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+D:\VS projects\Softuni\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

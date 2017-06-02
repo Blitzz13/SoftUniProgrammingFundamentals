@@ -6,12 +6,10 @@ namespace VariableInHexadecimalFormat
     {
         static void Main(string[] args)
         {
-            decimal num1 = 0xfe;
-            decimal num2 = 0x37;
-            decimal num3 = 0x10;
-            Console.WriteLine(num1);
-            Console.WriteLine(num2);
-            Console.WriteLine(num3);
+            string hexValue = Console.ReadLine();
+            int decValue = Convert.ToInt32(hexValue, 16);
+            Console.WriteLine(decValue);
+            
         }
     }
 }

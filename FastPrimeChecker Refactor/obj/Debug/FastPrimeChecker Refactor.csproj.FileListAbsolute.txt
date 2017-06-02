@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.exe.config
+D:\VS projects\Softuni\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.exe
+D:\VS projects\Softuni\FastPrimeChecker Refactor\bin\Debug\FastPrimeChecker Refactor.pdb
+D:\VS projects\Softuni\FastPrimeChecker Refactor\obj\Debug\FastPrimeChecker Refactor.exe
+D:\VS projects\Softuni\FastPrimeChecker Refactor\obj\Debug\FastPrimeChecker Refactor.pdb

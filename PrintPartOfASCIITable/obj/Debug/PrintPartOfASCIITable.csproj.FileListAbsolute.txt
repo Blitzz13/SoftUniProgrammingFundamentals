@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe.config
+D:\VS projects\Softuni\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.exe
+D:\VS projects\Softuni\PrintPartOfASCIITable\bin\Debug\PrintPartOfASCIITable.pdb
+D:\VS projects\Softuni\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.exe
+D:\VS projects\Softuni\PrintPartOfASCIITable\obj\Debug\PrintPartOfASCIITable.pdb

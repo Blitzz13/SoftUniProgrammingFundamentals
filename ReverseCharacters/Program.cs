@@ -10,7 +10,9 @@ namespace ReverseCharacters
             string letter2 = Console.ReadLine();
             string letter3 = Console.ReadLine();
 
-            Console.WriteLine(letter3,letter2,letter1);
+            Console.Write(letter3);
+            Console.Write(letter2);
+            Console.WriteLine(letter1);
 
 
         }

@@ -1,1 +1,5 @@
 D:\VS projects\Softuni\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+D:\VS projects\Softuni\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+D:\VS projects\Softuni\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+D:\VS projects\Softuni\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+D:\VS projects\Softuni\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

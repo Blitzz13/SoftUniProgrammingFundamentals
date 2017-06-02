@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+D:\VS projects\Softuni\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+D:\VS projects\Softuni\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+D:\VS projects\Softuni\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+D:\VS projects\Softuni\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb
+D:\VS projects\Softuni\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache

@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Numerics;
 namespace CenturiesToNanoseconds
 {
     class Program
@@ -14,14 +14,13 @@ namespace CenturiesToNanoseconds
 
             int hours = days * 24;
 
-            int minutes = hours * 60;
+            BigInteger minutes = hours * 60;
+            BigInteger seconds = (BigInteger)(minutes * 60);
+            BigInteger miliSeconds = (seconds * 1000);
+            BigInteger mircroSeconds = (miliSeconds * 1000);
+            BigInteger nanoSeconds = (mircroSeconds * 1000);
 
-            uint seconds = (uint)(minutes * 60);
-            ulong miliSeconds = (seconds * 1000);
-            ulong mircroSeconds = (miliSeconds * 1000);
-            ulong nanoSeconds = (mircroSeconds * 1000);
-
-            Console.WriteLine($"{century} centuries = {years} years = {days} days = {hours} hours = {minutes} minutes = {seconds} seconds = {miliSeconds} miliSeconds = {mircroSeconds} microseconds = {nanoSeconds} nanoseconds");
+            Console.WriteLine($"{century} centuries = {years} years = {days} days = {hours} hours = {minutes} minutes = {seconds} seconds = {miliSeconds} milliseconds = {mircroSeconds} microseconds = {nanoSeconds} nanoseconds");
 
         }
     }

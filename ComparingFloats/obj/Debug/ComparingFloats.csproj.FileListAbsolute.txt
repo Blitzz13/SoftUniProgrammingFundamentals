@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\VS projects\Softuni\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\VS projects\Softuni\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\VS projects\Softuni\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\VS projects\Softuni\ComparingFloats\obj\Debug\ComparingFloats.pdb

@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\VowelОrDigit\bin\Debug\VowelОrDigit.exe.config
+D:\VS projects\Softuni\VowelОrDigit\bin\Debug\VowelОrDigit.exe
+D:\VS projects\Softuni\VowelОrDigit\bin\Debug\VowelОrDigit.pdb
+D:\VS projects\Softuni\VowelОrDigit\obj\Debug\VowelОrDigit.exe
+D:\VS projects\Softuni\VowelОrDigit\obj\Debug\VowelОrDigit.pdb
