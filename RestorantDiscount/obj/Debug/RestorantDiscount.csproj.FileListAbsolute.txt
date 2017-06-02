@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\RestorantDiscount\bin\Debug\RestorantDiscount.exe.config
+D:\VS projects\Softuni\RestorantDiscount\bin\Debug\RestorantDiscount.exe
+D:\VS projects\Softuni\RestorantDiscount\bin\Debug\RestorantDiscount.pdb
+D:\VS projects\Softuni\RestorantDiscount\obj\Debug\RestorantDiscount.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\RestorantDiscount\obj\Debug\RestorantDiscount.exe
+D:\VS projects\Softuni\RestorantDiscount\obj\Debug\RestorantDiscount.pdb

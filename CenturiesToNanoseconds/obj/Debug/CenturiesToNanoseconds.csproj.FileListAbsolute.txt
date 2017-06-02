@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+D:\VS projects\Softuni\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\VS projects\Softuni\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\VS projects\Softuni\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\VS projects\Softuni\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

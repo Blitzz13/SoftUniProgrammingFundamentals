@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.exe.config
+D:\VS projects\Softuni\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.exe
+D:\VS projects\Softuni\FiveDifferentNumbers\bin\Debug\FiveDifferentNumbers.pdb
+D:\VS projects\Softuni\FiveDifferentNumbers\obj\Debug\FiveDifferentNumbers.exe
+D:\VS projects\Softuni\FiveDifferentNumbers\obj\Debug\FiveDifferentNumbers.pdb
+D:\VS projects\Softuni\FiveDifferentNumbers\obj\Debug\FiveDifferentNumbers.csprojResolveAssemblyReference.cache

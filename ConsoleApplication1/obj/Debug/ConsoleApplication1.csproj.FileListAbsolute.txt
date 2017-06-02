@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VS projects\Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VS projects\Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VS projects\Softuni\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VS projects\Softuni\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\CackeIngredients\bin\Debug\CackeIngredients.exe.config
+D:\VS projects\Softuni\CackeIngredients\bin\Debug\CackeIngredients.exe
+D:\VS projects\Softuni\CackeIngredients\bin\Debug\CackeIngredients.pdb
+D:\VS projects\Softuni\CackeIngredients\obj\Debug\CackeIngredients.exe
+D:\VS projects\Softuni\CackeIngredients\obj\Debug\CackeIngredients.pdb

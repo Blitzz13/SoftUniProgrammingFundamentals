@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\X\bin\Debug\X.exe.config
+D:\VS projects\Softuni\X\bin\Debug\X.exe
+D:\VS projects\Softuni\X\bin\Debug\X.pdb
+D:\VS projects\Softuni\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\X\obj\Debug\X.exe
+D:\VS projects\Softuni\X\obj\Debug\X.pdb

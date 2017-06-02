@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\RectaleArea\bin\Debug\RectaleArea.exe.config
+D:\VS projects\Softuni\RectaleArea\bin\Debug\RectaleArea.exe
+D:\VS projects\Softuni\RectaleArea\bin\Debug\RectaleArea.pdb
+D:\VS projects\Softuni\RectaleArea\obj\Debug\RectaleArea.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\RectaleArea\obj\Debug\RectaleArea.exe
+D:\VS projects\Softuni\RectaleArea\obj\Debug\RectaleArea.pdb

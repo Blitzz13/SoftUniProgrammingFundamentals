@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\SMSTyping\bin\Debug\SMSTyping.exe.config
+D:\VS projects\Softuni\SMSTyping\bin\Debug\SMSTyping.exe
+D:\VS projects\Softuni\SMSTyping\bin\Debug\SMSTyping.pdb
+D:\VS projects\Softuni\SMSTyping\obj\Debug\SMSTyping.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\SMSTyping\obj\Debug\SMSTyping.exe
+D:\VS projects\Softuni\SMSTyping\obj\Debug\SMSTyping.pdb

@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\BPM\bin\Debug\BPM.exe.config
+D:\VS projects\Softuni\BPM\bin\Debug\BPM.exe
+D:\VS projects\Softuni\BPM\bin\Debug\BPM.pdb
+D:\VS projects\Softuni\BPM\obj\Debug\BPM.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\BPM\obj\Debug\BPM.exe
+D:\VS projects\Softuni\BPM\obj\Debug\BPM.pdb

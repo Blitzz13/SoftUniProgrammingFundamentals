@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\WordInPlural\bin\Debug\WordInPlural.exe.config
+D:\VS projects\Softuni\WordInPlural\bin\Debug\WordInPlural.exe
+D:\VS projects\Softuni\WordInPlural\bin\Debug\WordInPlural.pdb
+D:\VS projects\Softuni\WordInPlural\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\WordInPlural\obj\Debug\WordInPlural.exe
+D:\VS projects\Softuni\WordInPlural\obj\Debug\WordInPlural.pdb

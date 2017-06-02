@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+D:\VS projects\Softuni\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+D:\VS projects\Softuni\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+D:\VS projects\Softuni\GameOfNumbers\obj\Debug\GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+D:\VS projects\Softuni\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+D:\VS projects\Softuni\NeighbourWars\bin\Debug\NeighbourWars.exe
+D:\VS projects\Softuni\NeighbourWars\bin\Debug\NeighbourWars.pdb
+D:\VS projects\Softuni\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\NeighbourWars\obj\Debug\NeighbourWars.exe
+D:\VS projects\Softuni\NeighbourWars\obj\Debug\NeighbourWars.pdb

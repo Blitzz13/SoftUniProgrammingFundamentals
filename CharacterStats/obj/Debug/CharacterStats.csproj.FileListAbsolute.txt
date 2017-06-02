@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CharacterStats\bin\Debug\CharacterStats.exe.config
+D:\VS projects\Softuni\CharacterStats\bin\Debug\CharacterStats.exe
+D:\VS projects\Softuni\CharacterStats\bin\Debug\CharacterStats.pdb
+D:\VS projects\Softuni\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CharacterStats\obj\Debug\CharacterStats.exe
+D:\VS projects\Softuni\CharacterStats\obj\Debug\CharacterStats.pdb

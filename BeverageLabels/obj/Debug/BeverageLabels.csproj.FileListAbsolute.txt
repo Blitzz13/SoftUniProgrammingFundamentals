@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+D:\VS projects\Softuni\BeverageLabels\bin\Debug\BeverageLabels.exe
+D:\VS projects\Softuni\BeverageLabels\bin\Debug\BeverageLabels.pdb
+D:\VS projects\Softuni\BeverageLabels\obj\Debug\BeverageLabels.exe
+D:\VS projects\Softuni\BeverageLabels\obj\Debug\BeverageLabels.pdb

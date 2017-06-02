@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\Miles2Km\bin\Debug\Miles2Km.exe.config
+D:\VS projects\Softuni\Miles2Km\bin\Debug\Miles2Km.exe
+D:\VS projects\Softuni\Miles2Km\bin\Debug\Miles2Km.pdb
+D:\VS projects\Softuni\Miles2Km\obj\Debug\Miles2Km.exe
+D:\VS projects\Softuni\Miles2Km\obj\Debug\Miles2Km.pdb

@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\DNASequences\bin\Debug\DNASequences.exe.config
+D:\VS projects\Softuni\DNASequences\bin\Debug\DNASequences.exe
+D:\VS projects\Softuni\DNASequences\bin\Debug\DNASequences.pdb
+D:\VS projects\Softuni\DNASequences\obj\Debug\DNASequences.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\DNASequences\obj\Debug\DNASequences.exe
+D:\VS projects\Softuni\DNASequences\obj\Debug\DNASequences.pdb

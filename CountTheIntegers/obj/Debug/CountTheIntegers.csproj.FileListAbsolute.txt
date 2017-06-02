@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
+D:\VS projects\Softuni\CountTheIntegers\bin\Debug\CountTheIntegers.exe
+D:\VS projects\Softuni\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
+D:\VS projects\Softuni\CountTheIntegers\obj\Debug\CountTheIntegers.exe
+D:\VS projects\Softuni\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

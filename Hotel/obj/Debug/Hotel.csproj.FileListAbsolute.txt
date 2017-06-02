@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Hotel\bin\Debug\Hotel.exe.config
+D:\VS projects\Softuni\Hotel\bin\Debug\Hotel.exe
+D:\VS projects\Softuni\Hotel\bin\Debug\Hotel.pdb
+D:\VS projects\Softuni\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Hotel\obj\Debug\Hotel.exe
+D:\VS projects\Softuni\Hotel\obj\Debug\Hotel.pdb

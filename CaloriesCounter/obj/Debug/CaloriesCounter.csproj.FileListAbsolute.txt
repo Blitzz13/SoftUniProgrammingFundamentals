@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+D:\VS projects\Softuni\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+D:\VS projects\Softuni\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+D:\VS projects\Softuni\CaloriesCounter\obj\Debug\CaloriesCounter.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+D:\VS projects\Softuni\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

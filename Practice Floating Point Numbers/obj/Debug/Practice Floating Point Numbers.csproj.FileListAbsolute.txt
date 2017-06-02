@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe.config
+D:\VS projects\Softuni\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe
+D:\VS projects\Softuni\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.pdb
+D:\VS projects\Softuni\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.exe
+D:\VS projects\Softuni\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.pdb

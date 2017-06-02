@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\VaporStore\bin\Debug\VaporStore.exe.config
+D:\VS projects\Softuni\VaporStore\bin\Debug\VaporStore.exe
+D:\VS projects\Softuni\VaporStore\bin\Debug\VaporStore.pdb
+D:\VS projects\Softuni\VaporStore\obj\Debug\VaporStore.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\VaporStore\obj\Debug\VaporStore.exe
+D:\VS projects\Softuni\VaporStore\obj\Debug\VaporStore.pdb

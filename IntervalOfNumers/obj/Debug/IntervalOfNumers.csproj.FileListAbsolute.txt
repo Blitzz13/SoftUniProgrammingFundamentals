@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\IntervalOfNumers\bin\Debug\IntervalOfNumers.exe.config
+D:\VS projects\Softuni\IntervalOfNumers\bin\Debug\IntervalOfNumers.exe
+D:\VS projects\Softuni\IntervalOfNumers\bin\Debug\IntervalOfNumers.pdb
+D:\VS projects\Softuni\IntervalOfNumers\obj\Debug\IntervalOfNumers.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\IntervalOfNumers\obj\Debug\IntervalOfNumers.exe
+D:\VS projects\Softuni\IntervalOfNumers\obj\Debug\IntervalOfNumers.pdb

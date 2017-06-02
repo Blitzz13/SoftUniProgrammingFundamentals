@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\VS projects\Softuni\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\VS projects\Softuni\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\VS projects\Softuni\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\VS projects\Softuni\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

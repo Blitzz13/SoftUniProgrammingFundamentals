@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\ChooseDrink\bin\Debug\ChooseDrink.exe.config
+D:\VS projects\Softuni\ChooseDrink\bin\Debug\ChooseDrink.exe
+D:\VS projects\Softuni\ChooseDrink\bin\Debug\ChooseDrink.pdb
+D:\VS projects\Softuni\ChooseDrink\obj\Debug\ChooseDrink.exe
+D:\VS projects\Softuni\ChooseDrink\obj\Debug\ChooseDrink.pdb

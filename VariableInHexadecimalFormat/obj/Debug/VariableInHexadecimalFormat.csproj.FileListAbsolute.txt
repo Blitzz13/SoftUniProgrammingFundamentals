@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\VS projects\Softuni\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\VS projects\Softuni\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\VS projects\Softuni\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\VS projects\Softuni\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

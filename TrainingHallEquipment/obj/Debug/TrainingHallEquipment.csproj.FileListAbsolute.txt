@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+D:\VS projects\Softuni\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+D:\VS projects\Softuni\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+D:\VS projects\Softuni\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+D:\VS projects\Softuni\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb
