@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\TouristInformation\bin\Debug\TouristInformation.exe.config
+D:\VS projects\Softuni\TouristInformation\bin\Debug\TouristInformation.exe
+D:\VS projects\Softuni\TouristInformation\bin\Debug\TouristInformation.pdb
+D:\VS projects\Softuni\TouristInformation\obj\Debug\TouristInformation.exe
+D:\VS projects\Softuni\TouristInformation\obj\Debug\TouristInformation.pdb

@@ -1,0 +1,1 @@
+D:\VS projects\Softuni\WeatherForecast\bin\Debug\WeatherForecast.exe.config

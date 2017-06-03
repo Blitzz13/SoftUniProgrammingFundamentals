@@ -1,57 +1,53 @@
 ﻿using System;
-
+using System.Numerics;
 namespace DifferentIntegersSize
 {
     class Program
     {
         static void Main(string[] args)
         {
-            decimal number;
-            try
+            BigInteger number = BigInteger.Parse(Console.ReadLine());
+
+            if (number > long.MaxValue)
             {
-                number = decimal.Parse(Console.ReadLine());
-                
-                if (number >= -128 && number <= 127)
+                Console.WriteLine($"{number} can't fit in any type");
+            }
+            else
+            {
+                Console.WriteLine($"{number} can fit in: ");
+                if (number >= sbyte.MinValue && number <= sbyte.MaxValue)
                 {
                     Console.WriteLine("* sbyte");
                 }
-                if (number <= 255)
+                if (number >= byte.MinValue && number <= byte.MaxValue)
                 {
                     Console.WriteLine("* byte");
                 }
-                if (number >= -32768m && number <= 32767m)
+                if (number >= short.MinValue && number <= short.MaxValue)
                 {
                     Console.WriteLine("* short");
                 }
-                if (number >= 65535m && number == 0)
+                if (number >= ushort.MinValue && number <= ushort.MaxValue)
                 {
                     Console.WriteLine("* ushort");
                 }
-                if (number >= -2147483648m && number <= 2147483647m)
+                if (number >= int.MinValue && number <= int.MaxValue)
                 {
                     Console.WriteLine("* int");
                 }
-                if (number == 0 || number <= 4294967295m)
+                if (number >= uint.MinValue && number <= uint.MaxValue)
                 {
                     Console.WriteLine("* uint");
                 }
-                if (number >= -9223372036854775808 && number <= 9223372036854775807)
+                if (number >= long.MinValue && number <= long.MaxValue)
                 {
                     Console.WriteLine("* long");
                 }
             }
-            catch (Exception e)
-            {
-                
-                
-                throw ($"{number} can't fit in any type");
-            }
-
-
         }
 
-
-
     }
+
 }
+
 
