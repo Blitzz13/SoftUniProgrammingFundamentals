@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\MakeAWord\bin\Debug\MakeAWord.exe.config
+D:\VS projects\Softuni\MakeAWord\bin\Debug\MakeAWord.exe
+D:\VS projects\Softuni\MakeAWord\bin\Debug\MakeAWord.pdb
+D:\VS projects\Softuni\MakeAWord\obj\Debug\MakeAWord.exe
+D:\VS projects\Softuni\MakeAWord\obj\Debug\MakeAWord.pdb

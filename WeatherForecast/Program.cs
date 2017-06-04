@@ -6,9 +6,38 @@ namespace WeatherForecast
     {
         static void Main(string[] args)
         {
-            ulong nubmer = ulong.Parse(Console.ReadLine());
+            decimal nubmer = decimal.Parse(Console.ReadLine());
 
+            if (nubmer >= sbyte.MinValue && nubmer <= sbyte.MaxValue)
+            {
+                if (nubmer % 1 != 0)
+                {
+                    Console.WriteLine("Rainy");
+                    return;
+                }
+                Console.WriteLine("Sunny");
 
+            }
+            else if (nubmer >= int.MinValue && nubmer <= int.MaxValue)
+            {
+                if (nubmer % 1 != 0)
+                {
+                    Console.WriteLine("Rainy");
+                    return;
+                }
+                Console.WriteLine("Cloudy");
+
+            }
+            else if (nubmer >= long.MinValue && nubmer <= long.MaxValue)
+            {
+                if (nubmer % 1 != 0)
+                {
+                    Console.WriteLine("Rainy");
+                    return;
+                }
+                Console.WriteLine("Windy");
+
+            }
         }
     }
 }

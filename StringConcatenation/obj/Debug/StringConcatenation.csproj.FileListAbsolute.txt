@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+D:\VS projects\Softuni\StringConcatenation\bin\Debug\StringConcatenation.exe
+D:\VS projects\Softuni\StringConcatenation\bin\Debug\StringConcatenation.pdb
+D:\VS projects\Softuni\StringConcatenation\obj\Debug\StringConcatenation.exe
+D:\VS projects\Softuni\StringConcatenation\obj\Debug\StringConcatenation.pdb
+D:\VS projects\Softuni\StringConcatenation\obj\Debug\StringConcatenation.csprojResolveAssemblyReference.cache

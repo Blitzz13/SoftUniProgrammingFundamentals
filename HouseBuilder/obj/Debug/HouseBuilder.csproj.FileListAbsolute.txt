@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+D:\VS projects\Softuni\HouseBuilder\bin\Debug\HouseBuilder.exe
+D:\VS projects\Softuni\HouseBuilder\bin\Debug\HouseBuilder.pdb
+D:\VS projects\Softuni\HouseBuilder\obj\Debug\HouseBuilder.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\HouseBuilder\obj\Debug\HouseBuilder.exe
+D:\VS projects\Softuni\HouseBuilder\obj\Debug\HouseBuilder.pdb

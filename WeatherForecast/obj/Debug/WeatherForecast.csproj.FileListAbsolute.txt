@@ -1,1 +1,6 @@
 D:\VS projects\Softuni\WeatherForecast\bin\Debug\WeatherForecast.exe.config
+D:\VS projects\Softuni\WeatherForecast\bin\Debug\WeatherForecast.exe
+D:\VS projects\Softuni\WeatherForecast\bin\Debug\WeatherForecast.pdb
+D:\VS projects\Softuni\WeatherForecast\obj\Debug\WeatherForecast.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\WeatherForecast\obj\Debug\WeatherForecast.exe
+D:\VS projects\Softuni\WeatherForecast\obj\Debug\WeatherForecast.pdb

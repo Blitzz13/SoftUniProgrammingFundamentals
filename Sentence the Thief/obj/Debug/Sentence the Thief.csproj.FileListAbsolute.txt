@@ -1,0 +1,2 @@
+D:\VS projects\Softuni\Sentence the Thief\bin\Debug\Sentence the Thief.exe.config
+D:\VS projects\Softuni\Sentence the Thief\obj\Debug\Sentence the Thief.csprojResolveAssemblyReference.cache

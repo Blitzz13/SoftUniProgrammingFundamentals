@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\DecryptingMessage\bin\Debug\DecryptingMessage.exe.config
+D:\VS projects\Softuni\DecryptingMessage\bin\Debug\DecryptingMessage.exe
+D:\VS projects\Softuni\DecryptingMessage\bin\Debug\DecryptingMessage.pdb
+D:\VS projects\Softuni\DecryptingMessage\obj\Debug\DecryptingMessage.exe
+D:\VS projects\Softuni\DecryptingMessage\obj\Debug\DecryptingMessage.pdb
