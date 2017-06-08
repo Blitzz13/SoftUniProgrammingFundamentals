@@ -6,24 +6,24 @@ namespace StringConcatenation
     {
         static void Main(string[] args)
         {
-            char delimeter = char.Parse(Console.ReadLine());
-            string oddOrEven = Console.ReadLine();
-            int n = int.Parse(Console.ReadLine());
-            string word = "";
-            string newWord = "";
-            int line = 0;
-            for (line = 1; line <= n; line++)
+            string separator = Console.ReadLine();
+            byte remainder = Console.ReadLine() == "even" ? (byte)0 : (byte)1;
+            byte stringsCount = byte.Parse(Console.ReadLine());
+            string concatenatedString = "";
+
+            for (int i = 1; i <= stringsCount; i++)
             {
-                 word = Console.ReadLine();
-                if (line % 2 == 0)
+                if (i % 2 == remainder)
                 {
-                    newWord += word;
+                    concatenatedString += Console.ReadLine() + separator;
+                }
+                else
+                {
+                    Console.ReadLine();
                 }
             }
 
-            Console.WriteLine(newWord);
-            
-
+            Console.WriteLine(concatenatedString.Remove(concatenatedString.Length - 1));
         }
     }
 }

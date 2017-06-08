@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CubeProperties\bin\Debug\CubeProperties.exe.config
+D:\VS projects\Softuni\CubeProperties\bin\Debug\CubeProperties.exe
+D:\VS projects\Softuni\CubeProperties\bin\Debug\CubeProperties.pdb
+D:\VS projects\Softuni\CubeProperties\obj\Debug\CubeProperties.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CubeProperties\obj\Debug\CubeProperties.exe
+D:\VS projects\Softuni\CubeProperties\obj\Debug\CubeProperties.pdb

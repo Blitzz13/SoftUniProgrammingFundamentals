@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CenterPointMath\bin\Debug\CenterPointMath.exe.config
+D:\VS projects\Softuni\CenterPointMath\bin\Debug\CenterPointMath.exe
+D:\VS projects\Softuni\CenterPointMath\bin\Debug\CenterPointMath.pdb
+D:\VS projects\Softuni\CenterPointMath\obj\Debug\CenterPointMath.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CenterPointMath\obj\Debug\CenterPointMath.exe
+D:\VS projects\Softuni\CenterPointMath\obj\Debug\CenterPointMath.pdb

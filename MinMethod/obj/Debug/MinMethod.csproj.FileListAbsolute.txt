@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MinMethod\bin\Debug\MinMethod.exe.config
+D:\VS projects\Softuni\MinMethod\bin\Debug\MinMethod.exe
+D:\VS projects\Softuni\MinMethod\bin\Debug\MinMethod.pdb
+D:\VS projects\Softuni\MinMethod\obj\Debug\MinMethod.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\MinMethod\obj\Debug\MinMethod.exe
+D:\VS projects\Softuni\MinMethod\obj\Debug\MinMethod.pdb

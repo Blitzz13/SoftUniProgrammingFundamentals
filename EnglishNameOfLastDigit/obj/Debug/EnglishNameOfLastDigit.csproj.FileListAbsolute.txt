@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe.config
+D:\VS projects\Softuni\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe
+D:\VS projects\Softuni\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.pdb
+D:\VS projects\Softuni\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.exe
+D:\VS projects\Softuni\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.pdb

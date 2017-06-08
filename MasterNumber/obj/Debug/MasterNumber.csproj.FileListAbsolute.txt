@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MasterNumber\bin\Debug\MasterNumber.exe.config
+D:\VS projects\Softuni\MasterNumber\bin\Debug\MasterNumber.exe
+D:\VS projects\Softuni\MasterNumber\bin\Debug\MasterNumber.pdb
+D:\VS projects\Softuni\MasterNumber\obj\Debug\MasterNumber.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\MasterNumber\obj\Debug\MasterNumber.exe
+D:\VS projects\Softuni\MasterNumber\obj\Debug\MasterNumber.pdb

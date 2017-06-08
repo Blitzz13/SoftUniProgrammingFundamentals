@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+D:\VS projects\Softuni\PrimeChecker\bin\Debug\PrimeChecker.exe
+D:\VS projects\Softuni\PrimeChecker\bin\Debug\PrimeChecker.pdb
+D:\VS projects\Softuni\PrimeChecker\obj\Debug\PrimeChecker.exe
+D:\VS projects\Softuni\PrimeChecker\obj\Debug\PrimeChecker.pdb

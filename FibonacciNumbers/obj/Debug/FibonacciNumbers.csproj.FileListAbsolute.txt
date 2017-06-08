@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+D:\VS projects\Softuni\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+D:\VS projects\Softuni\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+D:\VS projects\Softuni\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+D:\VS projects\Softuni\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

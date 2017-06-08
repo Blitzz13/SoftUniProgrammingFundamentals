@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\VS projects\Softuni\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\VS projects\Softuni\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\VS projects\Softuni\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\VS projects\Softuni\ReverseNumber\obj\Debug\ReverseNumber.pdb
