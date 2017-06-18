@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\VS projects\Softuni\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+D:\VS projects\Softuni\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+D:\VS projects\Softuni\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\VS projects\Softuni\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

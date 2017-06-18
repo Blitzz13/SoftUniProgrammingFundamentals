@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\SortTimes\bin\Debug\SortTimes.exe.config
+D:\VS projects\Softuni\SortTimes\bin\Debug\SortTimes.exe
+D:\VS projects\Softuni\SortTimes\bin\Debug\SortTimes.pdb
+D:\VS projects\Softuni\SortTimes\obj\Debug\SortTimes.exe
+D:\VS projects\Softuni\SortTimes\obj\Debug\SortTimes.pdb

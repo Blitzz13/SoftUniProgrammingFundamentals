@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\InventoryMatcher\bin\Debug\InventoryMatcher.exe.config
+D:\VS projects\Softuni\InventoryMatcher\bin\Debug\InventoryMatcher.exe
+D:\VS projects\Softuni\InventoryMatcher\bin\Debug\InventoryMatcher.pdb
+D:\VS projects\Softuni\InventoryMatcher\obj\Debug\InventoryMatcher.exe
+D:\VS projects\Softuni\InventoryMatcher\obj\Debug\InventoryMatcher.pdb

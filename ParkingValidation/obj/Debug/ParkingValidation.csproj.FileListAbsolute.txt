@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ParkingValidation\bin\Debug\ParkingValidation.exe.config
+D:\VS projects\Softuni\ParkingValidation\bin\Debug\ParkingValidation.exe
+D:\VS projects\Softuni\ParkingValidation\bin\Debug\ParkingValidation.pdb
+D:\VS projects\Softuni\ParkingValidation\obj\Debug\ParkingValidation.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ParkingValidation\obj\Debug\ParkingValidation.exe
+D:\VS projects\Softuni\ParkingValidation\obj\Debug\ParkingValidation.pdb

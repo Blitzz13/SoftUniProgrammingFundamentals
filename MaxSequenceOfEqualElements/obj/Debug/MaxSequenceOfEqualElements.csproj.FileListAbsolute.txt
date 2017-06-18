@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+D:\VS projects\Softuni\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

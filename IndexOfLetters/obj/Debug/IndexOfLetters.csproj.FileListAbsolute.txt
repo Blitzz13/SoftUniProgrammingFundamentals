@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\VS projects\Softuni\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\VS projects\Softuni\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\VS projects\Softuni\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\VS projects\Softuni\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

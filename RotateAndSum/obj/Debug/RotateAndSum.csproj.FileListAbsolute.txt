@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+D:\VS projects\Softuni\RotateAndSum\bin\Debug\RotateAndSum.exe
+D:\VS projects\Softuni\RotateAndSum\bin\Debug\RotateAndSum.pdb
+D:\VS projects\Softuni\RotateAndSum\obj\Debug\RotateAndSum.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\RotateAndSum\obj\Debug\RotateAndSum.exe
+D:\VS projects\Softuni\RotateAndSum\obj\Debug\RotateAndSum.pdb

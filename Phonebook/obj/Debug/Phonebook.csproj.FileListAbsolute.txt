@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Phonebook\bin\Debug\Phonebook.exe.config
+D:\VS projects\Softuni\Phonebook\bin\Debug\Phonebook.exe
+D:\VS projects\Softuni\Phonebook\bin\Debug\Phonebook.pdb
+D:\VS projects\Softuni\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Phonebook\obj\Debug\Phonebook.exe
+D:\VS projects\Softuni\Phonebook\obj\Debug\Phonebook.pdb

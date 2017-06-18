@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+D:\VS projects\Softuni\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+D:\VS projects\Softuni\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+D:\VS projects\Softuni\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+D:\VS projects\Softuni\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ArrayStatistics\bin\Debug\ArrayStatistics.exe.config
+D:\VS projects\Softuni\ArrayStatistics\bin\Debug\ArrayStatistics.exe
+D:\VS projects\Softuni\ArrayStatistics\bin\Debug\ArrayStatistics.pdb
+D:\VS projects\Softuni\ArrayStatistics\obj\Debug\ArrayStatistics.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ArrayStatistics\obj\Debug\ArrayStatistics.exe
+D:\VS projects\Softuni\ArrayStatistics\obj\Debug\ArrayStatistics.pdb

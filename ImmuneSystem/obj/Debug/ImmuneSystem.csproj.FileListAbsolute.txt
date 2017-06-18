@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ImmuneSystem\bin\Debug\ImmuneSystem.exe.config
+D:\VS projects\Softuni\ImmuneSystem\bin\Debug\ImmuneSystem.exe
+D:\VS projects\Softuni\ImmuneSystem\bin\Debug\ImmuneSystem.pdb
+D:\VS projects\Softuni\ImmuneSystem\obj\Debug\ImmuneSystem.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ImmuneSystem\obj\Debug\ImmuneSystem.exe
+D:\VS projects\Softuni\ImmuneSystem\obj\Debug\ImmuneSystem.pdb

@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\AMinerTask\bin\Debug\AMinerTask.exe.config
+D:\VS projects\Softuni\AMinerTask\bin\Debug\AMinerTask.exe
+D:\VS projects\Softuni\AMinerTask\bin\Debug\AMinerTask.pdb
+D:\VS projects\Softuni\AMinerTask\obj\Debug\AMinerTask.exe
+D:\VS projects\Softuni\AMinerTask\obj\Debug\AMinerTask.pdb

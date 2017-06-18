@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\SearchForANumber\bin\Debug\SearchForANumber.exe.config
+D:\VS projects\Softuni\SearchForANumber\bin\Debug\SearchForANumber.exe
+D:\VS projects\Softuni\SearchForANumber\bin\Debug\SearchForANumber.pdb
+D:\VS projects\Softuni\SearchForANumber\obj\Debug\SearchForANumber.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\SearchForANumber\obj\Debug\SearchForANumber.exe
+D:\VS projects\Softuni\SearchForANumber\obj\Debug\SearchForANumber.pdb

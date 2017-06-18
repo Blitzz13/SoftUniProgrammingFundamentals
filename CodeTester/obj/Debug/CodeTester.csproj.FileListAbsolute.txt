@@ -3,3 +3,4 @@ D:\VS projects\Softuni\CodeTester\bin\Debug\CodeTester.exe
 D:\VS projects\Softuni\CodeTester\bin\Debug\CodeTester.pdb
 D:\VS projects\Softuni\CodeTester\obj\Debug\CodeTester.exe
 D:\VS projects\Softuni\CodeTester\obj\Debug\CodeTester.pdb
+D:\VS projects\Softuni\CodeTester\obj\Debug\CodeTester.csprojResolveAssemblyReference.cache

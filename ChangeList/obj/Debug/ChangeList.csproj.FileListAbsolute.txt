@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ChangeList\bin\Debug\ChangeList.exe.config
+D:\VS projects\Softuni\ChangeList\bin\Debug\ChangeList.exe
+D:\VS projects\Softuni\ChangeList\bin\Debug\ChangeList.pdb
+D:\VS projects\Softuni\ChangeList\obj\Debug\ChangeList.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ChangeList\obj\Debug\ChangeList.exe
+D:\VS projects\Softuni\ChangeList\obj\Debug\ChangeList.pdb

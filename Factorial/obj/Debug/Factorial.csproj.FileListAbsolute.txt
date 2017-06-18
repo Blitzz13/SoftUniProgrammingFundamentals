@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Factorial\bin\Debug\Factorial.exe.config
+D:\VS projects\Softuni\Factorial\bin\Debug\Factorial.exe
+D:\VS projects\Softuni\Factorial\bin\Debug\Factorial.pdb
+D:\VS projects\Softuni\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Factorial\obj\Debug\Factorial.exe
+D:\VS projects\Softuni\Factorial\obj\Debug\Factorial.pdb

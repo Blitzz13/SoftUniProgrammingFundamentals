@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+D:\VS projects\Softuni\PairsByDifference\bin\Debug\PairsByDifference.exe
+D:\VS projects\Softuni\PairsByDifference\bin\Debug\PairsByDifference.pdb
+D:\VS projects\Softuni\PairsByDifference\obj\Debug\PairsByDifference.exe
+D:\VS projects\Softuni\PairsByDifference\obj\Debug\PairsByDifference.pdb

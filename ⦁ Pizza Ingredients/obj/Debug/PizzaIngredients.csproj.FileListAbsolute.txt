@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\⦁ Pizza Ingredients\bin\Debug\⦁ Pizza Ingredients.exe.config
+D:\VS projects\Softuni\⦁ Pizza Ingredients\bin\Debug\⦁ Pizza Ingredients.exe
+D:\VS projects\Softuni\⦁ Pizza Ingredients\bin\Debug\⦁ Pizza Ingredients.pdb
+D:\VS projects\Softuni\⦁ Pizza Ingredients\obj\Debug\⦁ Pizza Ingredients.exe
+D:\VS projects\Softuni\⦁ Pizza Ingredients\obj\Debug\⦁ Pizza Ingredients.pdb
+D:\VS projects\Softuni\⦁ Pizza Ingredients\obj\Debug\PizzaIngredients.csprojResolveAssemblyReference.cache

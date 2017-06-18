@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Supermarket Database\obj\Debug\SupermarketDatabase.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Supermarket Database\bin\Debug\Supermarket Database.exe.config
+D:\VS projects\Softuni\Supermarket Database\bin\Debug\Supermarket Database.exe
+D:\VS projects\Softuni\Supermarket Database\bin\Debug\Supermarket Database.pdb
+D:\VS projects\Softuni\Supermarket Database\obj\Debug\Supermarket Database.exe
+D:\VS projects\Softuni\Supermarket Database\obj\Debug\Supermarket Database.pdb

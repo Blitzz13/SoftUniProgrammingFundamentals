@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\FixEmails\bin\Debug\FixEmails.exe.config
+D:\VS projects\Softuni\FixEmails\bin\Debug\FixEmails.exe
+D:\VS projects\Softuni\FixEmails\bin\Debug\FixEmails.pdb
+D:\VS projects\Softuni\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\FixEmails\obj\Debug\FixEmails.exe
+D:\VS projects\Softuni\FixEmails\obj\Debug\FixEmails.pdb

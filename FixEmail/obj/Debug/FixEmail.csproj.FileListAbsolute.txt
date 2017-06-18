@@ -1,0 +1,1 @@
+D:\VS projects\Softuni\FixEmail\bin\Debug\FixEmail.exe.config

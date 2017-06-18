@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ManipulateArray\bin\Debug\ManipulateArray.exe.config
+D:\VS projects\Softuni\ManipulateArray\bin\Debug\ManipulateArray.exe
+D:\VS projects\Softuni\ManipulateArray\bin\Debug\ManipulateArray.pdb
+D:\VS projects\Softuni\ManipulateArray\obj\Debug\ManipulateArray.exe
+D:\VS projects\Softuni\ManipulateArray\obj\Debug\ManipulateArray.pdb
+D:\VS projects\Softuni\ManipulateArray\obj\Debug\ManipulateArray.csprojResolveAssemblyReference.cache

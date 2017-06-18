@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\SearchForANumberLists\bin\Debug\SearchForANumberLists.exe.config
+D:\VS projects\Softuni\SearchForANumberLists\bin\Debug\SearchForANumberLists.exe
+D:\VS projects\Softuni\SearchForANumberLists\bin\Debug\SearchForANumberLists.pdb
+D:\VS projects\Softuni\SearchForANumberLists\obj\Debug\SearchForANumberLists.exe
+D:\VS projects\Softuni\SearchForANumberLists\obj\Debug\SearchForANumberLists.pdb

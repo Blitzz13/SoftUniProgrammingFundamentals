@@ -1,62 +1,43 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace _11.Geometry_Calculator
+namespace PizzaIngredients
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string nameOfTheFigure = Console.ReadLine();
-            if (nameOfTheFigure == "Triangle")
-            {
-                double side = double.Parse(Console.ReadLine());
-                double height = double.Parse(Console.ReadLine());
-                TriangleArea(side, height);
-            }
-            else if (nameOfTheFigure == "Square")
-            {
-                double side = double.Parse(Console.ReadLine());
-                SquareArea(side);
-            }
-            else if (nameOfTheFigure == "Rectangle")
-            {
-                double width = double.Parse(Console.ReadLine());
-                double height = double.Parse(Console.ReadLine());
-                RectangleArea(width, height);
-            }
-            else if (nameOfTheFigure == "Circle ")
-            {
-                double radius = double.Parse(Console.ReadLine());
-                CircleArea(radius);
-            }
-        }
+            var arr = Console.ReadLine().Split(' ').ToArray();
 
-        static double CircleArea(double radius)
-        {
-            double areaOfCircle = Math.PI * Math.Pow(radius, 2);
-            Console.WriteLine($"{areaOfCircle:f2}");
-            return areaOfCircle;
-        }
+            int letterLenght = int.Parse(Console.ReadLine());
+            string[] ingrediense = new string[arr.Length]; ;
+            int counter = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                string word = arr[i];
+                if (word.Length == letterLenght)
+                {
+                    Console.WriteLine($"Adding {word}.");
+                    ingrediense.SetValue(word, counter);
+                    counter++;
+                }
 
-        static double RectangleArea(double width, double height)
-        {
-            double areaOfRectangle = width * height;
-            Console.WriteLine($"{areaOfRectangle:f2}");
-            return areaOfRectangle;
-        }
-
-        static double SquareArea(double side)
-        {
-            double areaOfSquare = Math.Pow(side, 2);
-            Console.WriteLine($"{areaOfSquare:f2}");
-            return areaOfSquare;
-        }
-
-        static double TriangleArea(double side, double height)
-        {
-            double areaOfTriangle = (side * height) / 2;
-            Console.WriteLine($"{areaOfTriangle:f2}");
-            return areaOfTriangle;
+            }
+            Console.WriteLine($"Made pizza with total of {counter} ingredients.");
+            Console.Write("The ingredients are:");
+            for (int i = 0; i < 10; i++)
+            {
+                if (i == counter - 1)
+                {
+                    Console.Write($" {ingrediense[i]}.");
+                    break;
+                }
+                Console.Write($" {ingrediense[i]},");
+            }
+            Console.WriteLine();
         }
     }
 }

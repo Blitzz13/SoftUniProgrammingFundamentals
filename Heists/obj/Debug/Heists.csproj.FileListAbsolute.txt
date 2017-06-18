@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\Heists\bin\Debug\Heists.exe.config
+D:\VS projects\Softuni\Heists\bin\Debug\Heists.exe
+D:\VS projects\Softuni\Heists\bin\Debug\Heists.pdb
+D:\VS projects\Softuni\Heists\obj\Debug\Heists.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\Heists\obj\Debug\Heists.exe
+D:\VS projects\Softuni\Heists\obj\Debug\Heists.pdb

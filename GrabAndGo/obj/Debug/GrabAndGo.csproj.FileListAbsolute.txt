@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\GrabAndGo\bin\Debug\GrabAndGo.exe.config
+D:\VS projects\Softuni\GrabAndGo\bin\Debug\GrabAndGo.exe
+D:\VS projects\Softuni\GrabAndGo\bin\Debug\GrabAndGo.pdb
+D:\VS projects\Softuni\GrabAndGo\obj\Debug\GrabAndGo.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\GrabAndGo\obj\Debug\GrabAndGo.exe
+D:\VS projects\Softuni\GrabAndGo\obj\Debug\GrabAndGo.pdb
