@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+D:\VS projects\Softuni\EnduranceRally\bin\Debug\EnduranceRally.exe
+D:\VS projects\Softuni\EnduranceRally\bin\Debug\EnduranceRally.pdb
+D:\VS projects\Softuni\EnduranceRally\obj\Debug\EnduranceRally.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\EnduranceRally\obj\Debug\EnduranceRally.exe
+D:\VS projects\Softuni\EnduranceRally\obj\Debug\EnduranceRally.pdb

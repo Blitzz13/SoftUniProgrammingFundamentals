@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\WinningTicket\bin\Debug\WinningTicket.exe.config
+D:\VS projects\Softuni\WinningTicket\bin\Debug\WinningTicket.exe
+D:\VS projects\Softuni\WinningTicket\bin\Debug\WinningTicket.pdb
+D:\VS projects\Softuni\WinningTicket\obj\Debug\WinningTicket.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\WinningTicket\obj\Debug\WinningTicket.exe
+D:\VS projects\Softuni\WinningTicket\obj\Debug\WinningTicket.pdb

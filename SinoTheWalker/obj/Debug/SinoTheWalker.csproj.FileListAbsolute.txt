@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+D:\VS projects\Softuni\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+D:\VS projects\Softuni\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+D:\VS projects\Softuni\SinoTheWalker\obj\Debug\SinoTheWalker.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+D:\VS projects\Softuni\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

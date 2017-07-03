@@ -18,9 +18,9 @@ namespace KarateStrings
                 {
                     power += int.Parse(path[i + 1].ToString());
                     i++;
-                    while (power > 0)
+                    while (i < path.Length && power > 0)
                     {
-                        if (i < path.Length && path[i] == '>')
+                        if (path[i] == '>')
                         {
                             break;
                         }
