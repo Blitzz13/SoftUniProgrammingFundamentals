@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CameraView\bin\Debug\CameraView.exe.config
+D:\VS projects\Softuni\CameraView\bin\Debug\CameraView.exe
+D:\VS projects\Softuni\CameraView\bin\Debug\CameraView.pdb
+D:\VS projects\Softuni\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CameraView\obj\Debug\CameraView.exe
+D:\VS projects\Softuni\CameraView\obj\Debug\CameraView.pdb

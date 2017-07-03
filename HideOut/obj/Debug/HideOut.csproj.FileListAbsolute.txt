@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\HideOut\bin\Debug\HideOut.exe.config
+D:\VS projects\Softuni\HideOut\bin\Debug\HideOut.exe
+D:\VS projects\Softuni\HideOut\bin\Debug\HideOut.pdb
+D:\VS projects\Softuni\HideOut\obj\Debug\HideOut.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\HideOut\obj\Debug\HideOut.exe
+D:\VS projects\Softuni\HideOut\obj\Debug\HideOut.pdb

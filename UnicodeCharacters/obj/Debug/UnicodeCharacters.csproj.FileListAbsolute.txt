@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\VS projects\Softuni\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\VS projects\Softuni\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\VS projects\Softuni\UnicodeCharacters\obj\Debug\UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\VS projects\Softuni\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

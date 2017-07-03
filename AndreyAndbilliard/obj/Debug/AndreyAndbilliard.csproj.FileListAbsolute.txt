@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\AndreyAndbilliard\bin\Debug\AndreyAndbilliard.exe.config
+D:\VS projects\Softuni\AndreyAndbilliard\bin\Debug\AndreyAndbilliard.exe
+D:\VS projects\Softuni\AndreyAndbilliard\bin\Debug\AndreyAndbilliard.pdb
+D:\VS projects\Softuni\AndreyAndbilliard\obj\Debug\AndreyAndbilliard.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\AndreyAndbilliard\obj\Debug\AndreyAndbilliard.exe
+D:\VS projects\Softuni\AndreyAndbilliard\obj\Debug\AndreyAndbilliard.pdb

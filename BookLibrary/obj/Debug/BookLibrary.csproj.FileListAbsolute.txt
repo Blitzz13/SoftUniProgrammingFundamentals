@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\BookLibrary\bin\Debug\BookLibrary.exe.config
+D:\VS projects\Softuni\BookLibrary\bin\Debug\BookLibrary.exe
+D:\VS projects\Softuni\BookLibrary\bin\Debug\BookLibrary.pdb
+D:\VS projects\Softuni\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\BookLibrary\obj\Debug\BookLibrary.exe
+D:\VS projects\Softuni\BookLibrary\obj\Debug\BookLibrary.pdb

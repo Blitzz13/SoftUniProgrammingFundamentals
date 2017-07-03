@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\EmailStatistics\bin\Debug\EmailStatistics.exe.config
+D:\VS projects\Softuni\EmailStatistics\bin\Debug\EmailStatistics.exe
+D:\VS projects\Softuni\EmailStatistics\bin\Debug\EmailStatistics.pdb
+D:\VS projects\Softuni\EmailStatistics\obj\Debug\EmailStatistics.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\EmailStatistics\obj\Debug\EmailStatistics.exe
+D:\VS projects\Softuni\EmailStatistics\obj\Debug\EmailStatistics.pdb

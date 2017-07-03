@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+D:\VS projects\Softuni\ExtractEmails\bin\Debug\ExtractEmails.exe
+D:\VS projects\Softuni\ExtractEmails\bin\Debug\ExtractEmails.pdb
+D:\VS projects\Softuni\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ExtractEmails\obj\Debug\ExtractEmails.exe
+D:\VS projects\Softuni\ExtractEmails\obj\Debug\ExtractEmails.pdb

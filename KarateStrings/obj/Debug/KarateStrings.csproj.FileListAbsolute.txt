@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\KarateStrings\bin\Debug\KarateStrings.exe.config
+D:\VS projects\Softuni\KarateStrings\bin\Debug\KarateStrings.exe
+D:\VS projects\Softuni\KarateStrings\bin\Debug\KarateStrings.pdb
+D:\VS projects\Softuni\KarateStrings\obj\Debug\KarateStrings.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\KarateStrings\obj\Debug\KarateStrings.exe
+D:\VS projects\Softuni\KarateStrings\obj\Debug\KarateStrings.pdb

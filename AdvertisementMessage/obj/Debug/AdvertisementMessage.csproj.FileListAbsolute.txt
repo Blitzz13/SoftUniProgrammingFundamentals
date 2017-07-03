@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+D:\VS projects\Softuni\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+D:\VS projects\Softuni\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+D:\VS projects\Softuni\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+D:\VS projects\Softuni\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

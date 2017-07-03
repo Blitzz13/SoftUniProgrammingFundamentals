@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\PlayCatch\bin\Debug\PlayCatch.exe.config
+D:\VS projects\Softuni\PlayCatch\bin\Debug\PlayCatch.exe
+D:\VS projects\Softuni\PlayCatch\bin\Debug\PlayCatch.pdb
+D:\VS projects\Softuni\PlayCatch\obj\Debug\PlayCatch.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\PlayCatch\obj\Debug\PlayCatch.exe
+D:\VS projects\Softuni\PlayCatch\obj\Debug\PlayCatch.pdb

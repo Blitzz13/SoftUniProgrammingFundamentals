@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+D:\VS projects\Softuni\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+D:\VS projects\Softuni\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+D:\VS projects\Softuni\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+D:\VS projects\Softuni\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

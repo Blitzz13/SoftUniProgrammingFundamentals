@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe.config
+D:\VS projects\Softuni\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe
+D:\VS projects\Softuni\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.pdb
+D:\VS projects\Softuni\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.exe
+D:\VS projects\Softuni\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.pdb
+D:\VS projects\Softuni\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.csprojResolveAssemblyReference.cache

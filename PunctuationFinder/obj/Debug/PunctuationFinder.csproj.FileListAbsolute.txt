@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\PunctuationFinder\bin\Debug\PunctuationFinder.exe.config
+D:\VS projects\Softuni\PunctuationFinder\bin\Debug\PunctuationFinder.exe
+D:\VS projects\Softuni\PunctuationFinder\bin\Debug\PunctuationFinder.pdb
+D:\VS projects\Softuni\PunctuationFinder\obj\Debug\PunctuationFinder.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\PunctuationFinder\obj\Debug\PunctuationFinder.exe
+D:\VS projects\Softuni\PunctuationFinder\obj\Debug\PunctuationFinder.pdb

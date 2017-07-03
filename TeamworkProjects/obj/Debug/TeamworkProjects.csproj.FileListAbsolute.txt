@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
+D:\VS projects\Softuni\TeamworkProjects\bin\Debug\TeamworkProjects.exe
+D:\VS projects\Softuni\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
+D:\VS projects\Softuni\TeamworkProjects\obj\Debug\TeamworkProjects.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\TeamworkProjects\obj\Debug\TeamworkProjects.exe
+D:\VS projects\Softuni\TeamworkProjects\obj\Debug\TeamworkProjects.pdb

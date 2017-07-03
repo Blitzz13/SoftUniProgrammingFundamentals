@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\EmailMe\bin\Debug\EmailMe.exe.config
+D:\VS projects\Softuni\EmailMe\bin\Debug\EmailMe.exe
+D:\VS projects\Softuni\EmailMe\bin\Debug\EmailMe.pdb
+D:\VS projects\Softuni\EmailMe\obj\Debug\EmailMe.exe
+D:\VS projects\Softuni\EmailMe\obj\Debug\EmailMe.pdb

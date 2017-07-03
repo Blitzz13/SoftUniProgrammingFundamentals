@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe.config
+D:\VS projects\Softuni\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.exe
+D:\VS projects\Softuni\ExtractSentencesByKeyword\bin\Debug\ExtractSentencesByKeyword.pdb
+D:\VS projects\Softuni\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.exe
+D:\VS projects\Softuni\ExtractSentencesByKeyword\obj\Debug\ExtractSentencesByKeyword.pdb

@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe.config
+D:\VS projects\Softuni\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.exe
+D:\VS projects\Softuni\MagicExchangeableWords\bin\Debug\MagicExchangeableWords.pdb
+D:\VS projects\Softuni\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.exe
+D:\VS projects\Softuni\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.pdb
+D:\VS projects\Softuni\MagicExchangeableWords\obj\Debug\MagicExchangeableWords.csprojResolveAssemblyReference.cache

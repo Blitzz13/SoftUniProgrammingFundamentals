@@ -1,0 +1,5 @@
+D:\VS projects\Softuni\Censorship\bin\Debug\Censorship.exe.config
+D:\VS projects\Softuni\Censorship\bin\Debug\Censorship.exe
+D:\VS projects\Softuni\Censorship\bin\Debug\Censorship.pdb
+D:\VS projects\Softuni\Censorship\obj\Debug\Censorship.exe
+D:\VS projects\Softuni\Censorship\obj\Debug\Censorship.pdb

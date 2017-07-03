@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\CountWorkingDays\bin\Debug\CountWorkingDays.exe.config
+D:\VS projects\Softuni\CountWorkingDays\bin\Debug\CountWorkingDays.exe
+D:\VS projects\Softuni\CountWorkingDays\bin\Debug\CountWorkingDays.pdb
+D:\VS projects\Softuni\CountWorkingDays\obj\Debug\CountWorkingDays.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\CountWorkingDays\obj\Debug\CountWorkingDays.exe
+D:\VS projects\Softuni\CountWorkingDays\obj\Debug\CountWorkingDays.pdb

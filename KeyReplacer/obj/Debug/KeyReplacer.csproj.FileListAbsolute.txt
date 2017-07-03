@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\KeyReplacer\bin\Debug\KeyReplacer.exe.config
+D:\VS projects\Softuni\KeyReplacer\bin\Debug\KeyReplacer.exe
+D:\VS projects\Softuni\KeyReplacer\bin\Debug\KeyReplacer.pdb
+D:\VS projects\Softuni\KeyReplacer\obj\Debug\KeyReplacer.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\KeyReplacer\obj\Debug\KeyReplacer.exe
+D:\VS projects\Softuni\KeyReplacer\obj\Debug\KeyReplacer.pdb

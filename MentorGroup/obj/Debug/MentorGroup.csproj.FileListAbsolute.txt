@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\MentorGroup\bin\Debug\MentorGroup.exe.config
+D:\VS projects\Softuni\MentorGroup\bin\Debug\MentorGroup.exe
+D:\VS projects\Softuni\MentorGroup\bin\Debug\MentorGroup.pdb
+D:\VS projects\Softuni\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\MentorGroup\obj\Debug\MentorGroup.exe
+D:\VS projects\Softuni\MentorGroup\obj\Debug\MentorGroup.pdb

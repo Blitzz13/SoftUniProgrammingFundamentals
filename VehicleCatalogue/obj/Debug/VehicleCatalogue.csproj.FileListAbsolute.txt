@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe.config
+D:\VS projects\Softuni\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe
+D:\VS projects\Softuni\VehicleCatalogue\bin\Debug\VehicleCatalogue.pdb
+D:\VS projects\Softuni\VehicleCatalogue\obj\Debug\VehicleCatalogue.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\VehicleCatalogue\obj\Debug\VehicleCatalogue.exe
+D:\VS projects\Softuni\VehicleCatalogue\obj\Debug\VehicleCatalogue.pdb

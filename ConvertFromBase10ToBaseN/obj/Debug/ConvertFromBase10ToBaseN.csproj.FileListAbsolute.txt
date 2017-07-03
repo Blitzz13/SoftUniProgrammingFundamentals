@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe.config
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.pdb
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.exe
+D:\VS projects\Softuni\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.pdb

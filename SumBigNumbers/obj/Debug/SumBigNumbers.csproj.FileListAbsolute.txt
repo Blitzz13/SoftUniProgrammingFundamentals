@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+D:\VS projects\Softuni\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+D:\VS projects\Softuni\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+D:\VS projects\Softuni\SumBigNumbers\obj\Debug\SumBigNumbers.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+D:\VS projects\Softuni\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

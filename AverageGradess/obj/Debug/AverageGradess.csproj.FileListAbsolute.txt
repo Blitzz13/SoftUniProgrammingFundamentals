@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\AverageGradess\bin\Debug\AverageGradess.exe.config
+D:\VS projects\Softuni\AverageGradess\bin\Debug\AverageGradess.exe
+D:\VS projects\Softuni\AverageGradess\bin\Debug\AverageGradess.pdb
+D:\VS projects\Softuni\AverageGradess\obj\Debug\AverageGradess.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\AverageGradess\obj\Debug\AverageGradess.exe
+D:\VS projects\Softuni\AverageGradess\obj\Debug\AverageGradess.pdb

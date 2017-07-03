@@ -1,0 +1,6 @@
+D:\VS projects\Softuni\OnlyLetters\bin\Debug\OnlyLetters.exe.config
+D:\VS projects\Softuni\OnlyLetters\bin\Debug\OnlyLetters.exe
+D:\VS projects\Softuni\OnlyLetters\bin\Debug\OnlyLetters.pdb
+D:\VS projects\Softuni\OnlyLetters\obj\Debug\OnlyLetters.csprojResolveAssemblyReference.cache
+D:\VS projects\Softuni\OnlyLetters\obj\Debug\OnlyLetters.exe
+D:\VS projects\Softuni\OnlyLetters\obj\Debug\OnlyLetters.pdb
